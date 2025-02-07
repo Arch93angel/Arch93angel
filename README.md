@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fate Dashe
 - 👀 I’m interested in software, web and app development
-- 🌱 I’m currently learning Python, Django, Javascript, Node, Express 
+- 🌱 I’m currently learning Python, Django, Javascript, Node, Express, React and Typescript 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @ nungnaan.dashe@st.futminna.edu.ng
 
